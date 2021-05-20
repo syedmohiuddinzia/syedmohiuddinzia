@@ -24,33 +24,33 @@ BACHELOR’S IN ELECTRICAL ENGINEERING, DHA SUFFA UNIVERSITY, 2.75 CGPA.*
 *MATRICULATION IN BIO-SCIENCE, AISHA BAWANY ACADEMY, 83%.*
 
 ### - SKILLS 💡
-• MATLAB, Simulink, NI Multisim, LabVIEW, Proteus and Fritzing, Xilinx, Arduino.
-• Adobe Illustrator, Lightroom, Photoshop, Premiere and FreeHand; CorelDraw.
-• AutoCAD, LibreCAD and KiCAD.
-• Python, C++, Arduino, MIPs code.
-• Kali Linux, Ubuntu, Windows, Remix OS and Raspbian OS.
-• Microsoft Word, PowerPoint, Publisher and Excel.
-• Electrical Panel Design and Wiring.
-• Siemens CPU and Modules setup.
-• RS-232, RS-485 communications.
-• Industrial Panel PC Troubleshooting
-• Industry **4.0 Skills** IOT, AI and Data Science.
-• Node-Red, MQTT-Spy, Ignition-IDE, Kepserver IOT Gateway.
-• Numpy, Pandas, Tensorflow, MatplotLib AWS Sagemaker for Machine Learning.
+• MATLAB, Simulink, NI Multisim, LabVIEW, Proteus and Fritzing, Xilinx, Arduino.  
+• Adobe Illustrator, Lightroom, Photoshop, Premiere and FreeHand; CorelDraw.  
+• AutoCAD, LibreCAD and KiCAD.  
+• Python, C++, Arduino, MIPs code.  
+• Kali Linux, Ubuntu, Windows, Remix OS and Raspbian OS.  
+• Microsoft Word, PowerPoint, Publisher and Excel.  
+• Electrical Panel Design and Wiring.  
+• Siemens CPU and Modules setup.  
+• RS-232, RS-485 communications.  
+• Industrial Panel PC Troubleshooting.  
+• Industry **4.0 Skills** IOT, AI and Data Science.  
+• Node-Red, MQTT-Spy, Ignition-IDE, Kepserver IOT Gateway.  
+• Numpy, Pandas, Tensorflow, MatplotLib AWS Sagemaker for Machine Learning.  
 
 ### - EXPERIENCE 💼
-• *Research & Development Engineer* – October/2020 - May/2021
-• *Trainee Engineer at Mahwin Engineering* (3 Months) – July/2020 – October/2020.
-• *Paid internship as Supervisor in Leak Survey Department at SSGC* (8 Weeks) – Jun/2019 – Aug/2019.
-• *Paid internship as Research Assistant at DHA Suffa University* (3 Months) – Jun/2018 – Aug/2018.
-• *Graphic Designer at IEEE Karachi Section and DHA Suffa University.*
-• *Organizer at Contrivance in DHA Suffa University.*
-• *Organizer at International Arduino Day.* (Received International Certificate)
+• *Research & Development Engineer* – October/2020 - May/2021.  
+• *Trainee Engineer at Mahwin Engineering* (3 Months) – July/2020 – October/2020.  
+• *Paid internship as Supervisor in Leak Survey Department at SSGC* (8 Weeks) – Jun/2019 – Aug/2019.  
+• *Paid internship as Research Assistant at DHA Suffa University* (3 Months) – Jun/2018 – Aug/2018.  
+• *Graphic Designer at IEEE Karachi Section and DHA Suffa University.*  
+• *Organizer at Contrivance in DHA Suffa University.*  
+• *Organizer at International Arduino Day.* - (Received International Certificate)  
 
 ### - QUALITIES 👓
-• Compassionate and ready to socialize with everyone.
-• Determined to fulfill tasks and assignments, never despair.
-• Time punctual and complete given tasks before deadline.
+• Compassionate and ready to socialize with everyone.  
+• Determined to fulfill tasks and assignments, never despair.  
+• Time punctual and complete given tasks before deadline.  
 
 ### - How to reach me 📫 
 
