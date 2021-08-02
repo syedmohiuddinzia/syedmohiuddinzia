@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 
 [GitHub - https://github.com/syedmohiuddinzia](https://github.com/syedmohiuddinzia)
 
-## - PWhatsApp & Mobile Number
+## - WhatsApp & Mobile Number
 ```
 0092 307 2099300
 ```
