@@ -58,4 +58,13 @@ BACHELOR’S IN ELECTRICAL ENGINEERING, DHA SUFFA UNIVERSITY, 2.75 CGPA.*
 syedmohiuddinzia/syedmohiuddinzia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Dynamic fresh graduate electrical engineer, looking for job opportunities.
+
+[LinkedIn - https://www.linkedin.com/in/syedmohiuddinzia](https://www.linkedin.com/in/syedmohiuddinzia)
+
+[Twitter - https://twitter.com/smzia_official](https://twitter.com/smzia_official)
+
+[FaceBook - https://facebook.com/syedmohiuddinzia](https://www.facebook.com/syedmohiuddinzia)
+
+[Instagram - https://instagram.com/syedmohiuddinzia](https://www.instagram.com/syedmohiuddinzia)
+
+[GitHub - https://github.com/syedmohiuddinzia](https://github.com/syedmohiuddinzia)
