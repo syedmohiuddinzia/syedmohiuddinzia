@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 
 [GitHub - https://github.com/syedmohiuddinzia](https://github.com/syedmohiuddinzia)
 
-## - Phone Numbers (Whatsapp)
+## - Phone Numbers + WhatsApp
 ```
 0092 307 2099300
 ```
