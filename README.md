@@ -1,8 +1,8 @@
-### Cover
+## Cover 
 
 ![SMZiaCover](https://github.com/syedmohiuddinzia/syedmohiuddinzia/blob/main/SMZia-Cover.png)
 
-### Graphical CV
+## Graphical CV 
 
 ![SMZiaResume](https://github.com/syedmohiuddinzia/syedmohiuddinzia/blob/main/SMZia-Resume-01.jpg)
 
