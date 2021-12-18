@@ -1,8 +1,11 @@
 ### Cover
+
 ![SMZiaCover](https://github.com/syedmohiuddinzia/syedmohiuddinzia/blob/main/SMZia-Cover.png)
 
 ### Graphical CV
+
 ![SMZiaResume](https://github.com/syedmohiuddinzia/syedmohiuddinzia/blob/main/SMZia-Resume-01.jpg)
+
 
 ## 👋 Hi, I’m @syedmohiuddinzia
 
