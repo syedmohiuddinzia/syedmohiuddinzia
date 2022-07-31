@@ -7,7 +7,7 @@
 ![SMZiaResume](https://github.com/syedmohiuddinzia/syedmohiuddinzia/blob/main/SMZia-Resume-01.jpg)
 
 
-## 👋 Hi, I’m **@syedmohiuddinzia**
+## 👋 Hi, I’m @syedmohiuddinzia
 
 ### - I’m interested in 👀
 1. *Travelling 🚌,*
