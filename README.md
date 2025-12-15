@@ -3,7 +3,7 @@
 ---
 
 ## Contact Information 📞  
-- **Phone**: (+92) 307-2099300  
+- **Phone**: (+92) 307/330-2099300  
 - **Location**: Karachi, Pakistan  
 - **Email**: [syedmohiuddinzia@gmail.com](mailto:syedmohiuddinzia@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/smzia](https://www.linkedin.com/in/smzia)
