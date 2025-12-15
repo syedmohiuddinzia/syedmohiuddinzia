@@ -12,12 +12,10 @@
 
 ## Education 🎓  
 **M.E Computer Systems Engineering** | Mar 2022  
-*NEDUET, Karachi, Pakistan*  
-GPA: 3.28
+*NED University of Eng. & Tech., Karachi, Pakistan*  
 
 **B.E Electrical Engineering** | Mar 2019  
 *DHA Suffa University, Karachi, Pakistan*  
-GPA: 2.75
 
 ---
 
